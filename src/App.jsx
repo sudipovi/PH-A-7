@@ -1,4 +1,5 @@
 import Footer from "./assets/Components/Footer";
+import Managment from "./assets/Components/Managment";
 import Navbar from "./assets/Components/Navbar";
 
 function App() {
@@ -6,10 +7,7 @@ function App() {
     <>
       <Navbar />
 
-      <div className="container mx-auto my-9">
-        <div></div>
-        <div></div>
-      </div>
+      <Managment />
 
       <Footer />
     </>
