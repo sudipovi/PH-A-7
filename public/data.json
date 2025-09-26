@@ -3,7 +3,7 @@
     "id": 1,
     "title": "Login Issue",
     "description": "Customer unable to log in with correct credentials.",
-    "customer": "Alice Johnson",
+    "customer": "Paru",
     "priority": "High",
     "status": "Open",
     "createdAt": "25/05/1998"
@@ -13,7 +13,7 @@
     "title": "Payment Failure",
     "description": "Payment gateway shows error code 502 during checkout.",
     "customer": "Rahul Sen",
-    "priority": "Critical",
+    "priority": "High",
     "status": "In Progress",
     "createdAt": "26/05/1998"
   },
@@ -32,7 +32,7 @@
     "description": "Password reset email is not being sent to the user.",
     "customer": "John Smith",
     "priority": "High",
-    "status": "Pending",
+    "status": "In Progress",
     "createdAt": "28/05/1998"
   },
   {
@@ -40,7 +40,7 @@
     "title": "App Crash on iOS",
     "description": "App crashes immediately after launch on iOS 18 devices.",
     "customer": "Emily Carter",
-    "priority": "Critical",
+    "priority": "Low",
     "status": "Open",
     "createdAt": "29/05/1998"
   },
@@ -50,7 +50,7 @@
     "description": "Customer received an invoice with wrong billing details.",
     "customer": "Tanvir Ahmed",
     "priority": "Low",
-    "status": "Resolved",
+    "status": "In Progress",
     "createdAt": "30/05/1998"
   },
   {
@@ -59,7 +59,7 @@
     "description": "Customer requested a dark mode option for the dashboard.",
     "customer": "Sophia Lee",
     "priority": "Low",
-    "status": "Closed",
+    "status": "Open",
     "createdAt": "31/05/1998"
   },
   {
@@ -86,7 +86,7 @@
     "description": "FAQ link on help page redirects to a 404 page.",
     "customer": "Omar Faruk",
     "priority": "Low",
-    "status": "Resolved",
+    "status": "In Progress",
     "createdAt": "03/06/1998"
   }
 ]
