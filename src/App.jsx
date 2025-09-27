@@ -11,6 +11,7 @@ const fetchIssues = async() =>{
 
 function App() {
   const fetchPromise = fetchIssues();
+  
 
 
   return (
@@ -18,7 +19,7 @@ function App() {
       <Navbar />
 
       
-      <Managment />
+
 
       <Suspense fallback={<span className="loading loading-dots loading-xl container mx-auto"></span>}>
         <Issue fetchPromise={fetchPromise}/>

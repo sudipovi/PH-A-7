@@ -8,7 +8,7 @@ const Navbar = () => {
           <div className="flex-1">
             <a className="font-bold text-2xl">CS — Ticket System</a>
           </div>
-          <div className="flex-none gap-2">
+          <div className="md:flex flex-wrap gap-2">
             <ul className="menu menu-horizontal px-1">
               <li>
                 <a>Home</a>
